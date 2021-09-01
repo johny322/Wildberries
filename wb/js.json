@@ -1,0 +1,513 @@
+{
+    "resultState": 0,
+    "value": {
+        "data": {
+            "staticResourses": {
+                "socialShare": "//static.wbstatic.net/s/spa/modules/productCard/socialSharePopup.min.css?07824084cdec2837",
+                "multipleSellers": "//static.wbstatic.net/s/spa/modules/productCard/multipleSellers.min.css?078e44cadd1cc56a"
+            },
+            "addToBasketEnable": false,
+            "addToPonedEnable": false,
+            "addToWaitingListEnable": true,
+            "addToCreditEnable": false,
+            "addToSellerEnable": false,
+            "addToPreorderEnable": false,
+            "deliveryInfoEnable": false,
+            "priceForProduct": {
+                "priceWithSale": 0,
+                "price": 0,
+                "sale": 0,
+                "priceDif": false
+            },
+            "rqCod1S": 27916875,
+            "productCard": {
+                "link": 20484761,
+                "star": 4,
+                "brandName": "Pop it",
+                "brandId": 215650,
+                "brandDirectionId": 0,
+                "brandDirectionPicsCount": 0,
+                "description": "Антистресс игрушка, поп ит, игрушка. Pop it - хит 2021 года, который пришел из самого популярного приложения для всех возрастов TikTok. Эта игрушка поможет вам снять стресс, отвлечься и просто расслабиться. Полукруг проваливается при нажатии внутрь и наоборот. Этот процесс не только успокаивает и завлекает, но еще и развивает мелкую моторику. 100% высококачественный гипоалерегнный силикон, отлично отмывается и может быть использован в течение длительного времени. Эти игрушки помогают поднять настроение и снять стресс, что так необходимо в наше время. Данная игрушка подойдет всем: и детям, и взрослым. Также она может надолго увлечь вашего ребенка, а вам освободит время для отдыха. В Pop it можно даже играть в компании. Цель игры: заставить противника нажать последний POP! Выбирайте ряд и нажимайте в нем любое количество POP. Тот, кому выпал ход нажать последний POP - проигрывает раунд. Переверните игровую панель и начинайте новый раунд! Выигравший три раунда из пяти - побеждает в игре.",
+                "goodsName": "Pop It / Вечная пупырка / Антистресс игрушка / Пупырка / Антистресс Pop it / Поп ит",
+                "nomenclatures": {
+                    "27916875": {
+                        "cod1S": 27916875,
+                        "artikul": "27916875",
+                        "sale": 72,
+                        "sizes": [
+                            {
+                                "characteristicId": 63457990,
+                                "price": 175,
+                                "priceWithSale": 49,
+                                "quantity": 0,
+                                "sizeName": "0",
+                                "sizeNameRus": "",
+                                "dimensions": [],
+                                "hasPreorder": false
+                            }
+                        ],
+                        "picsCount": 2,
+                        "has3DView": false,
+                        "hasVideo": false,
+                        "kit": [],
+                        "relatedGoods": [],
+                        "minOrderAmount": 1,
+                        "ordersCount": 4099,
+                        "disableForRegion": false,
+                        "qualityRate": 0,
+                        "priceDetails": {
+                            "basicSale": 60,
+                            "basicPrice": 70,
+                            "promoSale": 30,
+                            "promoPrice": 49,
+                            "basicPriceU": 7000,
+                            "promoPriceU": 4900
+                        },
+                        "isDataLoaded": true,
+                        "soldOut": true
+                    }
+                },
+                "addedOptions": [
+                    {
+                        "property": "Питание",
+                        "subProperty": "вечная пупырка; для всех возрастов; игрушка для всех",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Типоразмер элемента питания",
+                        "subProperty": "игрушка детская; игрушка для девочек; игрушка для мальчиков",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Наличие батареек в комплекте",
+                        "subProperty": "симпл димпл; игрушка; поп ит",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Назначение подарка",
+                        "subProperty": "подарок на день рождения; подарок девочке; подарок мальчику",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Повод",
+                        "subProperty": "день рождения; встреча; День рождения Любой праздник Для души Просто так",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Ширина упаковки",
+                        "subProperty": "13 см",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Высота упаковки",
+                        "subProperty": "13 см",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Глубина упаковки",
+                        "subProperty": "1.5 см",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Материал игрушки",
+                        "subProperty": "силикон; игрушка; антистресс игрушка",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Направление",
+                        "subProperty": "Развивает мелкую моторику рук; развивающая игрушка;Развивающие подарки/игры",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Тип игрушки антистресс",
+                        "subProperty": "pop it; поп ит; детская игрушка",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Страна производства",
+                        "subProperty": "Россия",
+                        "categoryId": 0,
+                        "priority": 0
+                    },
+                    {
+                        "property": "Комплектация",
+                        "subProperty": "пупырка; pop it; fidget; вечная пупырка; антистресс игрушка",
+                        "categoryId": 0,
+                        "priority": 0
+                    }
+                ],
+                "commentsCount": 127,
+                "sizeTypeId": 3256,
+                "technologies": [],
+                "nonRefundable": false,
+                "brandCod": 205650,
+                "subjectId": 2547,
+                "subjectRootId": 7,
+                "brandRating": 0,
+                "sizeTableLastChangedDate": "0001-01-01T00:00:00.000",
+                "kindName": "",
+                "kindId": 0,
+                "hasCertificate": false,
+                "groupedAddedOptions": [
+                    {
+                        "categoryId": 5,
+                        "categoryName": "Питание",
+                        "categoryPriority": 0,
+                        "addedOptions": [
+                            {
+                                "property": "Питание",
+                                "subProperty": "вечная пупырка; для всех возрастов; игрушка для всех",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Типоразмер элемента питания",
+                                "subProperty": "игрушка детская; игрушка для девочек; игрушка для мальчиков",
+                                "categoryId": 0,
+                                "priority": 0
+                            }
+                        ]
+                    },
+                    {
+                        "categoryId": 0,
+                        "categoryName": "Дополнительная информация",
+                        "categoryPriority": 0,
+                        "addedOptions": [
+                            {
+                                "property": "Наличие батареек в комплекте",
+                                "subProperty": "симпл димпл; игрушка; поп ит",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Назначение подарка",
+                                "subProperty": "подарок на день рождения; подарок девочке; подарок мальчику",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Повод",
+                                "subProperty": "день рождения; встреча; День рождения Любой праздник Для души Просто так",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Ширина упаковки",
+                                "subProperty": "13 см",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Высота упаковки",
+                                "subProperty": "13 см",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Глубина упаковки",
+                                "subProperty": "1.5 см",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Материал игрушки",
+                                "subProperty": "силикон; игрушка; антистресс игрушка",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Направление",
+                                "subProperty": "Развивает мелкую моторику рук; развивающая игрушка;Развивающие подарки/игры",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Тип игрушки антистресс",
+                                "subProperty": "pop it; поп ит; детская игрушка",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Страна производства",
+                                "subProperty": "Россия",
+                                "categoryId": 0,
+                                "priority": 0
+                            },
+                            {
+                                "property": "Комплектация",
+                                "subProperty": "пупырка; pop it; fidget; вечная пупырка; антистресс игрушка",
+                                "categoryId": 0,
+                                "priority": 0
+                            }
+                        ]
+                    }
+                ],
+                "kit": "пупырка,  pop it,  fidget,  вечная пупырка,  антистресс игрушка",
+                "isDigital": false,
+                "adult": false,
+                "isCargo": false,
+                "isExpressItem": false,
+                "isImportItem": false,
+                "productDiscountRange": "72%",
+                "isElectronics": false,
+                "isHideColor": false,
+                "isVideo": false,
+                "isActivationKey": false,
+                "canFit": false,
+                "disableShowAdvantages": false
+            },
+            "selectedNomenclature": {
+                "isSoldOut": true,
+                "cod1S": 27916875,
+                "ordersCount": 4000,
+                "qualityRate": 0,
+                "artikul": "27916875",
+                "priceDetails": {
+                    "basicSale": 60,
+                    "basicPrice": 70,
+                    "promoSale": 30,
+                    "promoPrice": 49,
+                    "basicPriceU": 7000,
+                    "promoPriceU": 4900
+                },
+                "addToSellerEnable": false,
+                "addToBasketEnable": false,
+                "addToPonedEnable": false,
+                "addToWaitingListEnable": true,
+                "addToPreorderEnable": false,
+                "allSizesSoldOut": true,
+                "hasVideo": false,
+                "sizes": {
+                    "63457990": {
+                        "addToSellerEnable": false,
+                        "addToBasketEnable": false,
+                        "addToPonedEnable": false,
+                        "addToWaitingListEnable": true,
+                        "addToPreorderEnable": false,
+                        "id": 1,
+                        "sizeName": "0",
+                        "sizeNameRus": "",
+                        "dimensions": [],
+                        "characteristicId": 63457990,
+                        "priceWithSale": 0,
+                        "price": 0,
+                        "quantity": 0,
+                        "isSoldOut": true,
+                        "lowQuantity": false,
+                        "sale": 0,
+                        "creditEnabled": false,
+                        "hasPreorder": false,
+                        "sellerEnabled": false
+                    }
+                },
+                "kit": [],
+                "relatedGoodsIds": [],
+                "hasCreditSizes": false,
+                "showSizeType": false,
+                "picsCount": 2,
+                "has3D": false,
+                "minOrderAmount": 1,
+                "hasSizesOnSeller": false,
+                "hasSizesOnPreorder": false,
+                "enabledForRegion": true,
+                "isDigital": false,
+                "isCargo": false,
+                "isExpressFood": false,
+                "imageHelper": [
+                    {
+                        "preview": "//images.wbstatic.net/c516x688/new/27910000/27916875-1.jpg",
+                        "zoom": "//images.wbstatic.net/big/new/27910000/27916875-1.jpg"
+                    },
+                    {
+                        "preview": "//images.wbstatic.net/c516x688/new/27910000/27916875-2.jpg",
+                        "zoom": "//images.wbstatic.net/big/new/27910000/27916875-2.jpg"
+                    }
+                ],
+                "urlForReccomendations": "/recommendation/catalog?type=visuallysimilar&forproduct=27916875",
+                "isDataLoaded": true,
+                "isImport": false
+            },
+            "selectedSize": {
+                "addToSellerEnable": false,
+                "addToBasketEnable": false,
+                "addToPonedEnable": false,
+                "addToWaitingListEnable": true,
+                "addToPreorderEnable": false,
+                "id": 1,
+                "sizeName": "0",
+                "sizeNameRus": "",
+                "dimensions": [],
+                "characteristicId": 63457990,
+                "priceWithSale": 0,
+                "price": 0,
+                "quantity": 0,
+                "isSoldOut": true,
+                "lowQuantity": false,
+                "sale": 0,
+                "creditEnabled": false,
+                "hasPreorder": false,
+                "sellerEnabled": false
+            },
+            "sizeTableLastChangedDate": "0001-01-01T00:00:00.000",
+            "showSizeTable": false,
+            "haveSize": false,
+            "isDeleted": false,
+            "anySizeSoldOut": true,
+            "hasVideo": false,
+            "has3Dview": false,
+            "popupMode": false,
+            "catalogLink": "/brands/pop-it",
+            "googleTagParams": "{\n  \"PageType\": \"product\",\n  \"Ptype\": [\n    \"Pop It / Вечная пупырка / Антистресс игрушка / Пупырка / Антистресс Pop it / Поп ит\"\n  ],\n  \"Pbrand\": \"Pop it\",\n  \"ProdID\": [\n    27916875\n  ],\n  \"Value\": [\n    \"49\"\n  ],\n  \"Discount\": \"72%\",\n  \"Delivery\": \"Бесплатная доставка\",\n  \"Psize\": []\n}",
+            "canChooseCredit": false,
+            "showTones": false,
+            "metaTags": {
+                "27916875": {
+                    "title": "Pop It / Вечная пупырка / Антистресс игрушка / Пупырка / Антистресс Pop it / Поп ит Pop it 27916875 купить %FORPRICE% в интернет-магазине Wildberries",
+                    "description": "Pop It / Вечная пупырка / Антистресс игрушка / Пупырка / Антистресс Pop it / Поп ит Pop it 27916875 в интернет-магазине Wildberries. Бесплатная доставка и постоянные скидки!"
+                }
+            },
+            "nomenclatures": {
+                "27916875": {
+                    "isSoldOut": true,
+                    "cod1S": 27916875,
+                    "ordersCount": 4000,
+                    "qualityRate": 0,
+                    "artikul": "27916875",
+                    "priceDetails": {
+                        "basicSale": 60,
+                        "basicPrice": 70,
+                        "promoSale": 30,
+                        "promoPrice": 49,
+                        "basicPriceU": 7000,
+                        "promoPriceU": 4900
+                    },
+                    "addToSellerEnable": false,
+                    "addToBasketEnable": false,
+                    "addToPonedEnable": false,
+                    "addToWaitingListEnable": true,
+                    "addToPreorderEnable": false,
+                    "allSizesSoldOut": true,
+                    "hasVideo": false,
+                    "sizes": {
+                        "63457990": {
+                            "addToSellerEnable": false,
+                            "addToBasketEnable": false,
+                            "addToPonedEnable": false,
+                            "addToWaitingListEnable": true,
+                            "addToPreorderEnable": false,
+                            "id": 1,
+                            "sizeName": "0",
+                            "sizeNameRus": "",
+                            "dimensions": [],
+                            "characteristicId": 63457990,
+                            "priceWithSale": 0,
+                            "price": 0,
+                            "quantity": 0,
+                            "isSoldOut": true,
+                            "lowQuantity": false,
+                            "sale": 0,
+                            "creditEnabled": false,
+                            "hasPreorder": false,
+                            "sellerEnabled": false
+                        }
+                    },
+                    "kit": [],
+                    "relatedGoodsIds": [],
+                    "hasCreditSizes": false,
+                    "showSizeType": false,
+                    "picsCount": 2,
+                    "has3D": false,
+                    "minOrderAmount": 1,
+                    "hasSizesOnSeller": false,
+                    "hasSizesOnPreorder": false,
+                    "enabledForRegion": true,
+                    "isDigital": false,
+                    "isCargo": false,
+                    "isExpressFood": false,
+                    "imageHelper": [
+                        {
+                            "preview": "//images.wbstatic.net/c516x688/new/27910000/27916875-1.jpg",
+                            "zoom": "//images.wbstatic.net/big/new/27910000/27916875-1.jpg"
+                        },
+                        {
+                            "preview": "//images.wbstatic.net/c516x688/new/27910000/27916875-2.jpg",
+                            "zoom": "//images.wbstatic.net/big/new/27910000/27916875-2.jpg"
+                        }
+                    ],
+                    "urlForReccomendations": "/recommendation/catalog?type=visuallysimilar&forproduct=27916875",
+                    "isDataLoaded": true,
+                    "isImport": false
+                }
+            },
+            "properNomenclaturesOrder": [
+                27916875
+            ],
+            "showSimilar": true,
+            "farDeliveryEnable": false,
+            "questionsCount": 0,
+            "feedbacksCount": 127,
+            "openGraphDescription": "Антистресс игрушка, поп ит, игрушка. Pop it - хит 2021 года, который пришел из самого популярного приложения для всех возрастов TikTok. Эта игрушка поможет вам снять стресс, отвлечься и просто расслабиться. Полукруг проваливается при нажатии внутрь и наоборот. Этот процесс не только успокаивает и завлекает, но еще и развивает мелкую моторику. 100% высококачественный гипоалерегнный силикон, отлично отмывается и может быть использован в течение длительного времени. Эти игрушки помогают поднять настроение и снять стресс, что так необходимо в наше время. Данная игрушка подойдет всем: и детям, и взрослым. Также она может надолго увлечь вашего ребенка, а вам освободит время для отдыха. В Pop it можно даже играть в компании. Цель игры: заставить противника нажать последний POP! Выбирайте ряд и нажимайте в нем любое количество POP. Тот, кому выпал ход нажать последний POP - проигрывает раунд. Переверните игровую панель и начинайте новый раунд! Выигравший три раунда из пяти - побеждает в игре.",
+            "brandLogoUrl": "//images.wbstatic.net/brands/small/new/215650.jpg",
+            "brandUrl": "/brands/pop-it",
+            "imageUploaderSettings": {
+                "maxItemsCount": 5,
+                "useCropper": true,
+                "minWidth": 337,
+                "minHeight": 450,
+                "messages": {
+                    "wrongFileSize": "Размер файла не должен превышать {0} Mb.",
+                    "wrongFileExtension": "Поддерживаются только следующие расширения файлов «{0}»",
+                    "filesLimitReached": "Вы можете загрузить не более {0} изображений",
+                    "wrongImageResolution": "Разрешение изображения должно быть не менее {0}px по ширине и {1}px по высоте"
+                },
+                "uploadLimit": 0,
+                "supportedExtensions": [
+                    "jpg",
+                    "gif",
+                    "jpeg",
+                    "png",
+                    "bmp"
+                ]
+            },
+            "urlHelper": {
+                "toBasket": "/product/addtobasket"
+            },
+            "searchTags": {
+                "tagsQuery": "C этим товаром искали",
+                "drawType": 1,
+                "tagsViewModels": []
+            },
+            "targetInfo": {
+                "targetUrl": "XS",
+                "targetCode": 0,
+                "sort": 0,
+                "targetUrlExtended": "XS||||"
+            },
+            "settings": {
+                "enableCommentContentCheck": true,
+                "disableQuestionForm": false,
+                "enableVideoReviews": true,
+                "minCreditSum": 5000,
+                "acquirerFeePercent": 2
+            }
+        },
+        "counterEventsModel": {
+            "info": "{\"counterData\":[{\"counterType\":1,\"eventNames\":[\"viewItem\",\"setEmail\"]}],\"productId\":27916875}",
+            "userIdCookieName": "criteo_uid",
+            "mappingKey": "308",
+            "redirectForCriteo": "https%3A%2F%2Fwww.wildberries.ru%2Fstats%2Fcriteotrack%3Fuserid%3D%40USERID%40",
+            "url": "/stats/counters-processing"
+        }
+    }
+}
